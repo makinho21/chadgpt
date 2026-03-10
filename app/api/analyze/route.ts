@@ -1,1 +1,1 @@
-// Content of analyze route.ts
+content: prompt
