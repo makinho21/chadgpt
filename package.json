@@ -1,1 +1,19 @@
-{"name": "chadgpt", "version": "1.0.0", "main": "index.js", "scripts": {"test": "echo \"Error: no test specified\" && exit 1"}, "author": "makinho21", "license": "ISC"}
+{
+  "name": "chadgpt",
+  "version": "1.0.0",
+  "description": "ChadGPT Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
