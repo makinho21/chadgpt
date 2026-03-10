@@ -1,2 +1,3 @@
-# chadgpt
-Chad bot for checking questionable coins
+# Comprehensive README
+
+// Detailed project description and instructions.
